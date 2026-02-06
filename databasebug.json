@@ -3,6 +3,3 @@
   {"user": "finstore", "pass": "finstore", "expired": "permanen"},
   {"user": "hanz", "pass": "hanz", "expired": "permanen"}
 ]
-
-//note : expired bisa diganti dengan tanggal contoh hari/bulan/tahun (1/1/2026) 
-bisa juga permanen jangan lupa beri tanda koma setiap akhir (}) contoh ...."permanen"},
